@@ -1,7 +1,4 @@
-adada;lddadmaaz tuk sum slojil nov kod
+aadada;lddadmaaz tuk sum slojil nov kod
 i iskam da opravq bug nomer 123141
 
 akda;lkd;lada
-
-
->>>>>>> db51a2e824342345a148036f624cfcdba41f41
