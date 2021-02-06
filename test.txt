@@ -1,3 +1,10 @@
 adada;lddadma
+<<<<<<< HEAD
 az tuk sum slojil nov kod
 i iskam da opravq bug nomer 123141
+=======
+akda;lkd;lada
+a;lkd;lakdopqi1qpoqieo1
+01o31poi3po1i3po1
+po1iep1i3p1i31
+>>>>>>> db51a2e835f6486575a148036f624cfcdba41f41
